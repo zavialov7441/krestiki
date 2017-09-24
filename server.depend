@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506288941 source:c:\users\azaza\documents\kursach\server\main.cpp
+	<winsock2.h>
+	<stdio.h>
+	<iostream>
+
